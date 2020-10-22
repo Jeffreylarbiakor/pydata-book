@@ -36,7 +36,7 @@ reorganized book materials on the [`1st-edition` branch][2].
 * [Appendix A: Advanced NumPy](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/appa.ipynb)
 
 ## License
-
+ 
 ### Code
 
 The code in this repository, including all code samples in the notebooks listed
